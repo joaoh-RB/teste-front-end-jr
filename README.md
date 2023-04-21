@@ -1,33 +1,42 @@
-# Teste Econverse: Vaga Desenvolvedor Front-End Jr
+## Teste Econverse: Vaga Desenvolvedor Front-End Jr
 
-### Vem ser #Econverse!
+#### Publiquei o projeto na Vercel, para acessar clique no link abaixo.
 
-Segue abaixo as instruções para a execução do teste.
+<a href='https://teste-front-end-jr-joaoh-rb.vercel.app/'> Ver o projeto </a>
 
-## Instruções
-- Faça um fork desse projeto para a sua conta pessoal do GitHub.
-- Crie um README com as instruções para compilar, testar e rodar o projeto.
-- O link do repositório deverá ser enviado para o e-mail ana.nascimento@econverse.com.br e pedro@econverse.com.br com o título **Teste Vaga FrontEnd Jr**
+#### Instruções para rodar o projeto
+ ``` bash
+  # Clone esse repositório
+  $ git clone <https://github.com/joaoh-RB/teste-front-end-jr>
 
-## Especificações Técnicas
-- Desenvolver a pagina em html conforme o layout nesse [Link](https://www.figma.com/file/rWnzPeoxgynuNPsJjV0VmV/Teste-Front-End-Jr?node-id=0%3A1). Para conseguir pegar os elementos do Figma, basta copiar o layout para sua conta que terá acesso de edição.
-- Montar a [Vitrine](https://app.econverse.com.br/teste-front-end/junior/tecnologia/layout/vitrine-produtos.png) de produtos consumindo as informações dos produtos em json atraves desse [Link](https://app.econverse.com.br/teste-front-end/junior/tecnologia/lista-produtos/produtos.json) com uso de React.js.
-- Desenvolver a interação ao clicar em um produto conforme layout. A interação consiste em abrir um modal com as principais informações do produto presente no arquivo [JSON](https://app.econverse.com.br/teste-front-end/junior/tecnologia/lista-produtos/produtos.json) conforme o produto que clicar.
-- Desenvolver os Htmls semânticos.
-- Utilizar Pré-processador Sass, Less ou Stylus.
-- Respeitar o Layout pixel a pixel, tamanho das fontes, cores e botões.
-- Não Utilizar Frameworks como Bootstrap, Foundation, ou afins.
+  
+  # Acesse a pasta do projeto no terminal/cmd
+  $ cd NomeDaPasta
+  
+  # Instale as dependências
+  $ npm install
+  
+  # Execute a aplicação em modo de desenvolvimento
+  $ npm start
+  
+  # O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
+   
+  ``` 
+### Tecnologias que usei para desenvolver o projeto
 
-## Pontos Extras
-- Utilizar Automatizadores de Tarefas como: (Grunt, Gulp ou outros).
-- Utilizar Boas práticas de SEO.
-- Organização do Projeto.
+<div>
 
-## O que avaliaremos em seu teste
-- Organização do projeto
-- Lógica do código
-- Identação do código
-- Uso de componentização
-- Alcance dos objetivos propostos
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" style="border-radius: 3px" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 
-**Boa sorte! ;)**
+</div>
+
+
+### Meu Linkedin
+<div>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-henrique-rodrigues-972104254?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeW%2BdmNVHQHmUwrjPR9d3AA%3D%3D)
+
+<div>
+
