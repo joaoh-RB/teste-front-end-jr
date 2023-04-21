@@ -36,7 +36,7 @@
 ### Meu Linkedin
 <div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-henrique-rodrigues-972104254?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeW%2BdmNVHQHmUwrjPR9d3AA%3D%3D)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoh-RB)
 
 <div>
 
